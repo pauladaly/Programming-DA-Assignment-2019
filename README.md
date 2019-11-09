@@ -16,4 +16,9 @@ Once the repository is cloned to your system to open the jupyter notebook on the
 References:
 Website: https://www.numpy.org
 Documentation: https://docs.scipy.org/
+https://www.machinelearningplus.com/python/numpy-tutorial-part1-array-python-examples/
+https://www.twilio.com/blog/2017/10/basic-statistics-python-numpy-jupyter-notebook.html
+https://www.sharpsightlabs.com/blog/numpy-random-normal/
+
+
 
